@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrderPrinter", "MealOrd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A199A942-FC0F-4980-AD9D-CD18D1E64F2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSBuild", "MSBuild\MSBuild.csproj", "{42F0EB73-AD7B-4452-A14F-4C1D56991CB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{A199A942-FC0F-4980-AD9D-CD18D1E64F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A199A942-FC0F-4980-AD9D-CD18D1E64F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A199A942-FC0F-4980-AD9D-CD18D1E64F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F0EB73-AD7B-4452-A14F-4C1D56991CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F0EB73-AD7B-4452-A14F-4C1D56991CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F0EB73-AD7B-4452-A14F-4C1D56991CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F0EB73-AD7B-4452-A14F-4C1D56991CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

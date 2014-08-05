@@ -3,3 +3,9 @@ C:\Work\Test\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.exe
 C:\Work\Test\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.pdb
 C:\Work\Test\MealOrderPrinter\MealOrderPrinter\obj\Debug\MealOrderPrinter.exe
 C:\Work\Test\MealOrderPrinter\MealOrderPrinter\obj\Debug\MealOrderPrinter.pdb
+C:\Users\Nebiyou\Source\Repos\GitRepo1\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.exe.config
+C:\Users\Nebiyou\Source\Repos\GitRepo1\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.exe
+C:\Users\Nebiyou\Source\Repos\GitRepo1\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.pdb
+C:\Users\Nebiyou\Source\Repos\GitRepo1\MealOrderPrinter\MealOrderPrinter\obj\Debug\MealOrderPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Nebiyou\Source\Repos\GitRepo1\MealOrderPrinter\MealOrderPrinter\obj\Debug\MealOrderPrinter.exe
+C:\Users\Nebiyou\Source\Repos\GitRepo1\MealOrderPrinter\MealOrderPrinter\obj\Debug\MealOrderPrinter.pdb
