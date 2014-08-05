@@ -1,0 +1,5 @@
+C:\Work\Test\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.exe.config
+C:\Work\Test\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.exe
+C:\Work\Test\MealOrderPrinter\MealOrderPrinter\bin\Debug\MealOrderPrinter.pdb
+C:\Work\Test\MealOrderPrinter\MealOrderPrinter\obj\Debug\MealOrderPrinter.exe
+C:\Work\Test\MealOrderPrinter\MealOrderPrinter\obj\Debug\MealOrderPrinter.pdb
